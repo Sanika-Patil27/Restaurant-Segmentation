@@ -49,9 +49,6 @@ This project applies unsupervised machine learning techniques to cluster restaur
 3. Open the notebook  
    `jupyter notebook Zomato_Clustering.ipynb`
 
-## 🌐 Optional Deployment
-You can deploy this notebook as an interactive app using [Streamlit](https://streamlit.io/) to allow users to explore clusters dynamically.
-
 ## 📌 Key Insights
 - KMeans successfully identified high-rated budget restaurants, premium dine-in groups, and active online delivery clusters.
 - DBSCAN detected outlier restaurants and organically grouped core service types.
