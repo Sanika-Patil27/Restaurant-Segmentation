@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Clustering using Unsupervised Learning
+# 🍽️ Restaurant Segmentation using Unsupervised Learning
 
 This project uses unsupervised machine learning to segment restaurants from a Zomato dataset, providing a comprehensive analysis of their characteristics. By clustering restaurants based on their operational and service features, the goal is to uncover meaningful patterns and derive actionable insights for business strategy and targeted marketing.
 
